@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # print out 24 bit vertical color bars, compatible with putty 0.71
 # or any modern Linux/Unix terminal or shell
-# width of ts.columsn / 7, length of 255 / terminal rows/lines
+# width of ts.columns / 7, length of 255 / terminal rows/lines
 ###
 import os
 
